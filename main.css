@@ -46,6 +46,10 @@ header a {
   height: 75%;
 }
 
+#ExperienceParagraphs {
+	color: white;
+}
+
 #AboutMeText {
   text-align: center;
   color: white;
@@ -95,6 +99,14 @@ footer .col-sm-8 {
   justify-content: flex-end;
   color: white;
   font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li p {
+	width: 500px;	
 }
 
 footer ul {
